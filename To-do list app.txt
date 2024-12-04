@@ -1,0 +1,8 @@
+To-Do List Application
+
+Features:
+
+Add, edit, and delete tasks.
+Mark tasks as complete/incomplete.
+Save tasks to a file.
+Load tasks from a file when the app starts.
